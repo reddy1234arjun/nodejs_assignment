@@ -1,0 +1,13 @@
+{
+  "name": "node_assignment",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "mongodb": "^5.1.0"
+  }
+}
